@@ -3,7 +3,7 @@
 A broadcast Application that work by remote OBS via websocket plugin.
 
 ## Related Repository
-1. OBS Fork https://github.com/streamini/my_obs_fork
+1. OBS Fork https://github.com/streamini/obs_fork
 2. Proxy Server https://github.com/streamini/proxy_server
 
 
